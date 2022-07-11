@@ -1,7 +1,7 @@
 # Lit
 Challenge Based SNS
  
- **서비스**
+ **Services**
  - Lits (챌린지)
  - Lit up (챌린지 인증)
  - Chatting
