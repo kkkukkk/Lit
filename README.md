@@ -25,7 +25,8 @@ Challenge Based SNS
  
 ## Environment  
   *  tomcat
-  *  Oracel
+  *  IntelliJ
+  *  DBeaver
   *  jdk 11
   *  STS
   *  Hikari CP
