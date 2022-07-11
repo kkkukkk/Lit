@@ -25,12 +25,16 @@ Challenge Based SNS
  * WebSocket
  * Hikari CP
  
-## Environment  
+### Environment  
   *  tomcat
   *  IntelliJ
   *  DBeaver
   *  jdk 11
   *  STS
+  
+### benchmark
+* instagram
+* challengers
   
 ----
 **내가 구현한 기능**
