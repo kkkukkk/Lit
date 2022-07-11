@@ -22,6 +22,8 @@ Challenge Based SNS
  * Maven
  * myBatis
  * Java
+ * WebSocket
+ * Hikari CP
  
 ## Environment  
   *  tomcat
@@ -29,8 +31,6 @@ Challenge Based SNS
   *  DBeaver
   *  jdk 11
   *  STS
-  *  Hikari CP
-  *  WebSocket
   
 ----
 **내가 구현한 기능**
