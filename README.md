@@ -39,7 +39,7 @@ Challenge Based SNS
 * 인증글 상세
 
 ### Back-end
-* Websocket 기반 채팅
+* WebSocket 기반 채팅
 * 팔로워/팔로잉 목록 및 검색
 * 유저 프로필 사진 표시
 
