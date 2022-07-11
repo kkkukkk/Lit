@@ -9,7 +9,7 @@ Challenge Based SNS
  - Adminstration
 
  ## Tech stack & Open-source libraries
- ### data
+ ### DBMS
  * Oracle
 ### Front-end
  *  HTML/CSS
