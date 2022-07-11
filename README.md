@@ -32,7 +32,7 @@ Challenge Based SNS
   *  jdk 11
   *  STS
   
-### benchmark
+### Benchmark
 * instagram
 * challengers
   
