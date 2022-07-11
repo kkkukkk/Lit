@@ -24,8 +24,8 @@ Challenge Based SNS
  * Java
  
 ## Environment  
-  *  tomcat 9.0
-  *  Oracel 11g
+  *  tomcat
+  *  Oracel
   *  jdk 11
   *  STS
   *  Hikari CP
