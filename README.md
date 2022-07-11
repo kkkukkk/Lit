@@ -45,7 +45,7 @@ Challenge Based SNS
 
 # Images
 
-* 팔로워/팔로잉 목록 및 검색  
+* 팔로워/팔로잉 목록 및 검색 및 프로필 사진 표시  
 ![image](https://user-images.githubusercontent.com/93972072/178234598-8bdfde74-2cea-4326-8fc2-b0b8083d559c.png)
 
 
