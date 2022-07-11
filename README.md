@@ -40,7 +40,7 @@ Challenge Based SNS
 * Websocket 기반 채팅
 * 팔로워/팔로잉 목록 및 검색
 
-# 이미지
+# Images
 
 * 팔로워/팔로잉 목록 및 검색  
 ![image](https://user-images.githubusercontent.com/93972072/178234598-8bdfde74-2cea-4326-8fc2-b0b8083d559c.png)
