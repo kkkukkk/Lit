@@ -26,10 +26,10 @@ Challenge Based SNS
  * Hikari CP
  
 ### Environment  
-  *  tomcat
+  *  tomcat9
   *  IntelliJ
   *  DBeaver
-  *  JAVA 11
+  *  JAVA11
   *  STS
   
 ### Benchmark
