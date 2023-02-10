@@ -96,6 +96,7 @@ Challenge Based SNS
 - 코드를 모듈화 및 테스트 해야 유지 보수에 용이하다.
 - 데이터 베이스의 올바른 설계 및 정규화가 필요하다
 
-----
+
 **notion**
+----
 https://www.notion.so/Lit-d62cb9cf2c6a498db3112f8044ebc99e
