@@ -29,7 +29,7 @@ Challenge Based SNS
   *  tomcat
   *  IntelliJ
   *  DBeaver
-  *  jdk 11
+  *  JAVA 11
   *  STS
   
 ### Benchmark
